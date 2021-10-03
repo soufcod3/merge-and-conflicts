@@ -1,3 +1,3 @@
 # Merge and conflicts
 
-Quelques lignes de texte.
+Je viens d'entamer la quête Git/GitHub 5 : Merge & Conflits.
